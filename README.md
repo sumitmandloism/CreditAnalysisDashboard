@@ -20,6 +20,7 @@ This dashboard provides a comprehensive Credit Analysis Report aimed at monitori
 - `Dashboard.html` - Embedded Power BI dashboard code
 - `Credit-Analysis-Report.docx` - Detailed analysis and explanation of dashboard KPIs
 - `CREDIT-ANALYSIS-REPORT-SQL-QUERY.docx` - SQL queries used to extract key metrics from loan data
+- `financial_loan_data.csv` - Source dataset file used for the analysis and dashboard
 
 ## Usage
 1. Open `Dashboard.html` in a modern web browser to view the embedded Power BI report.
