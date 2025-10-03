@@ -2,6 +2,8 @@
 
 ## Project Overview
 This dashboard provides a comprehensive Credit Analysis Report aimed at monitoring and assessing a bank's lending activities and loan portfolio health. It visualizes key credit metrics and trends to empower data-driven lending decisions.
+[![Dashboard Preview](images/summary.jpg)]([https://link-to-live-dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzJkNGVhMmItZDRjNy00ZGQwLWFiYzItMDc0YWJjODVkZDQ0IiwidCI6IjM2ZTgzYTQzLTJkOTktNGI2Yi04MWMxLTUzNjhhYmIzZGFmNCJ9&disablecdnExpiration=1759522749))
+
 
 ## Features
 - Total loan applications tracking with Month-to-Date (MTD) and Month-over-Month (MoM) changes
